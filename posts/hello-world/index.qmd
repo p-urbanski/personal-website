@@ -1,0 +1,11 @@
+---
+title: "Hello world"
+description: "Pierwszy wpis na blogu"
+author: "Piotr Urbański"
+date: "2026-07-28"
+categories: [news]
+image: thumbnail.jpg
+title-block-banner: true
+---
+
+Dzisiaj założyłem ten blog, a to mój pierwszy wpis.
