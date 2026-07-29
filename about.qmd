@@ -1,19 +1,17 @@
 ---
-title: "About"
+title: "O mnie"
 image: profile.jpg
 about:
-  template: jolla
+  template: solana
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/urbnski/
     - icon: github
       text: Github
       href: https://github.com
-
+    - icon: envelope
+      text: E-mail
+      href: mailto:piotr_urbanski@o2.pl
 ---
-
-About this blog
+Cześć, nazywam się Piotrek i zajmuję się analizą danych. Założyłem blog *Między nami a liczbami*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chciałbym dzięki temu pokazać, że statystyka nie musi być nudna, a potrafi być szalenie interesująca! :) 
