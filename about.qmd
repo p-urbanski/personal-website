@@ -14,4 +14,9 @@ about:
       text: E-mail
       href: mailto:piotr_urbanski@o2.pl
 ---
-Cześć, nazywam się Piotrek i zajmuję się analizą danych. Założyłem blog *Między nami a liczbami*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chciałbym dzięki temu pokazać, że statystyka nie musi być nudna, a potrafi być szalenie interesująca! :) 
+
+Cześć, nazywam się Piotrek i na co dzień zajmuję się analizą danych.
+
+Założyłem blog *Między nami a liczbami*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chciałbym dzięki temu pokazać, że statystyka nie musi być nudna, a nawet potrafi być szalenie interesująca 😊!
+
+Chciałbyś zadać mi jakieś pytanie? Pisz śmiało!
