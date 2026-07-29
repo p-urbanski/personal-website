@@ -1,5 +1,5 @@
 ---
-title: "Strona Główna"
+title: "Wpisy"
 listing:
   contents: posts
   feed: true

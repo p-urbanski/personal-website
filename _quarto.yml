@@ -6,10 +6,9 @@ website:
   site-url: "https://piotr-urbanski.netlify.app"
   title: "Między nami a liczbami"
   navbar:
-    left: 
+    right:
     - text: O mnie
       href: about.qmd
-    right:
     - icon: linkedin
       href: https://linkedin.com/in/urbnski/
     - icon: github
