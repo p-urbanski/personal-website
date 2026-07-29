@@ -15,10 +15,10 @@ about:
       href: mailto:piotr_urbanski@o2.pl
 ---
 
-Cześć, nazywam się Piotrek i na co dzień zajmuję się analizą danych.
+Cześć, nazywam się Piotrek. Na co dzień zajmuję się analizą danych statystycznych.
 
 Założyłem blog *Między nami a liczbami*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chciałbym dzięki temu pokazać, że statystyka nie musi być nudna, a nawet potrafi być szalenie interesująca 😊!
 
 Chciałbyś zadać mi jakieś pytanie? Pisz śmiało!
 
-📣 Prezentowane treści są moją opinią i nie należy ich traktować jako stanowiska żadnej organizacji.
+`Prezentowane treści są moją opinią i nie należy ich traktować jako stanowiska żadnej organizacji.`
