@@ -1,25 +1,26 @@
 ---
 title: "Piotr Urbański"
-image: profile.jpg
 about:
-  template: solana
+  template: trestles
+  image: profile.jpg
+  image-alt: Piotr Urbański
   links:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/urbnski/
     - icon: github
       text: Github
-      href: https://github.com
-    - icon: envelope
+      href: https://github.com/p-urbanski
+    - icon: envelope-fill
       text: E-mail
       href: mailto:piotr_urbanski@o2.pl
 ---
 
 Cześć, nazywam się Piotrek 👋. Na co dzień zajmuję się analizą danych statystycznych.
 
-Założyłem blog *Między nami a liczbami*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chciałbym dzięki temu pokazać, że statystyka nie musi być nudna, za to potrafi być szalenie interesująca 😊!
+Założyłem blog *Między nami a liczbami*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chcę dzięki niemu pokazać, że statystyka nie musi być nudna, za to może być szalenie interesująca 😊!
 
-Chciałbyś zadać mi jakieś pytanie? Pisz śmiało 📧!
+Chciałbyś zadać mi jakieś pytanie? [Pisz śmiało](mailto:piotr_urbanski@o2.pl) 📧!
 
 ::: callout-note
 ## Oświadczenie

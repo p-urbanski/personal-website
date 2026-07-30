@@ -12,12 +12,13 @@ website:
     - icon: linkedin
       href: https://linkedin.com/in/urbnski/
     - icon: github
-      href: https://github.com
-    - icon: envelope
+      href: https://github.com/p-urbanski
+    - icon: envelope-fill
       href: mailto:piotr_urbanski@o2.pl
         
 format:
   html:
+    respect-user-color-scheme: true
     theme:
       light: flatly
       dark: darkly
