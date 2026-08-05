@@ -10,9 +10,9 @@ image: thumbnail.jpg
 ::: callout-note
 ## Opracowanie oparte na pracy magisterskiej
 
-W 2023 r. napisałem pracę magisterską na temat społeczno-gospodarczych konsekwencji transformacji energetycznej w LZW. Możesz ją przeczytać na [moim profilu Researchgate](https://www.researchgate.net/publication/374749905_Spoleczno-gospodarcze_konsekwencje_transformacji_energetycznej_w_Lubelskim_Zaglebiu_Weglowym). Po wszystkie źródła informacji, których nie wymieniłem na blogu, odsyłam do pracy. 
+W 2023 r. napisałem pracę magisterską na temat społeczno-gospodarczych konsekwencji transformacji energetycznej w LZW. Możesz ją przeczytać na [moim profilu Researchgate](https://www.researchgate.net/publication/374749905_Spoleczno-gospodarcze_konsekwencje_transformacji_energetycznej_w_Lubelskim_Zaglebiu_Weglowym). Po wszystkie źródła informacji, których nie wymieniłem na blogu, odsyłam do pracy.
 :::
 
 # Największa kopalnia węgla kamiennego w Polsce
 
-Kopalnia w Bogdance 
+Kopalnia w Bogdance

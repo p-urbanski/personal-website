@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Między nami a liczbami</title>
+<link>https://piotr-urbanski.netlify.app/</link>
+<atom:link href="https://piotr-urbanski.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<description>Tłumaczę świat przy pomocy liczb.</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Fri, 31 Jul 2026 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Transformacja energetyczna Lubelskiego Zagłębia Węglowego</title>
+  <dc:creator>Piotr Urbański</dc:creator>
+  <link>https://piotr-urbanski.netlify.app/posts/transformacja-energetyczna-lzw/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Opracowanie oparte na pracy magisterskiej
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>W 2023 r. napisałem pracę magisterską na temat społeczno-gospodarczych konsekwencji transformacji energetycznej w LZW. Możesz ją przeczytać na <a href="https://www.researchgate.net/publication/374749905_Spoleczno-gospodarcze_konsekwencje_transformacji_energetycznej_w_Lubelskim_Zaglebiu_Weglowym">moim profilu Researchgate</a>. Po wszystkie źródła informacji, których nie wymieniłem na blogu, odsyłam do pracy.</p>
+</div>
+</div>
+<section id="największa-kopalnia-węgla-kamiennego-w-polsce" class="level1">
+<h1>Największa kopalnia węgla kamiennego w Polsce</h1>
+<p>Kopalnia w Bogdance</p>
+
+
+</section>
+
+ ]]></description>
+  <category>dashboard</category>
+  <guid>https://piotr-urbanski.netlify.app/posts/transformacja-energetyczna-lzw/</guid>
+  <pubDate>Fri, 31 Jul 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://piotr-urbanski.netlify.app/posts/transformacja-energetyczna-lzw/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Hello world</title>
+  <dc:creator>Piotr Urbański</dc:creator>
+  <link>https://piotr-urbanski.netlify.app/posts/hello-world/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p>Dzisiaj założyłem ten blog, a to mój pierwszy wpis.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://piotr-urbanski.netlify.app/posts/hello-world/</guid>
+  <pubDate>Mon, 27 Jul 2026 22:00:00 GMT</pubDate>
+  <media:content url="https://piotr-urbanski.netlify.app/posts/hello-world/thumbnail.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

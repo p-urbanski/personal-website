@@ -2,27 +2,43 @@ project:
   type: website
 
 website:
-  description: "Tłumaczę świat przy pomocy liczb."
+  description: "Raz, dwa, trzy"
+  favicon: "images/favicon.webp"
   site-url: "https://piotr-urbanski.netlify.app"
-  title: "Między nami a liczbami"
+  #title: "Między nami a liczbami"
   navbar:
+    search: true
+    background: transparent
+    logo: "images/logo_horizontal.webp"
+    logo-alt: "Logo strony internetowej Miarodajnie"
     right:
+    - text: Projekty
+      href: about.qmd
+    - text: Blog
+      href: about.qmd
     - text: O mnie
       href: about.qmd
-    - icon: linkedin
-      href: https://linkedin.com/in/urbnski/
-    - icon: github
-      href: https://github.com/p-urbanski
-    - icon: envelope-fill
-      href: mailto:piotr_urbanski@o2.pl
+  page-footer:
+    left: 
+      - text: © 2026 Piotr Urbański
+    center:
+      - icon: linkedin
+        href: https://linkedin.com/in/urbnski/
+      - icon: github
+        href: https://github.com/p-urbanski
+      - icon: envelope-fill
+        href: mailto:piotr_urbanski@o2.pl
+    right: "Stworzono przy użyciu [Github](https://github.com/p-urbanski), [R](https://www.r-project.org/) oraz [Quarto](https://quarto.org/)"
         
 format:
   html:
     respect-user-color-scheme: true
-    theme:
-      light: flatly
-      dark: darkly
-    css: styles.css
+    theme: 
+      - flatly
+      - styles.scss
+      #light: flatly
+      # dark: darkly
+    #css: styles.css
 
 editor: visual
 

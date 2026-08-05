@@ -2,7 +2,7 @@
 title: "Piotr Urbański"
 about:
   template: trestles
-  image: profile.jpg
+  image: "images/profile.jpg"
   image-alt: Piotr Urbański
   links:
     - icon: linkedin
@@ -18,7 +18,7 @@ about:
 
 Cześć, nazywam się Piotrek 👋. Na co dzień zajmuję się analizą danych statystycznych.
 
-Założyłem blog *Między nami a liczbami*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chcę dzięki niemu pokazać, że statystyka nie musi być nudna, za to może być szalenie interesująca 😊!
+Założyłem blog *Miarodajnie*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chcę dzięki niemu pokazać, że statystyka nie musi być nudna, za to może być szalenie interesująca 😊!
 
 Chciałbyś zadać mi jakieś pytanie? [Pisz śmiało](mailto:piotr_urbanski@o2.pl) 📧!
 

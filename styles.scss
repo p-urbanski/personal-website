@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+$font-family-sans-serif: 'Inter', system-ui, -apple-system, sans-serif !default;
+$headings-font-family: 'Lora', serif !default;
+
+// Colors
+$bezowy: #FEFDFB;
+$antracytowy: #2D2A26;
+$granatowy: #0B3D5C;
+$blekitny: #CFDAE0;
+$morski: #2E8B77;
+$mietowy: #CDE4DF;
+$pomaranczowy: #E8871E;
+$piaskowy: #FAE7D2;
+
+// Base documtn colors
+$body-bg: $bezowy;
+
+// Navbar
+.navbar-brand img,
+.navbar-logo {
+  margin-top: 5px;
+  max-height: 30px !important; /* Dostosuj wartość do własnych potrzeb */
+  height: auto;
+}
+
+.navbar {
+  border-bottom: 1px solid #e5e5e5 !important; /* Cienka, jasnoszara linia */
+}
