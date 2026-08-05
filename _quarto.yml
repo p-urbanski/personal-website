@@ -29,7 +29,7 @@ website:
       - icon: envelope-fill
         href: mailto:piotr_urbanski@o2.pl
     right: "Stworzono przy użyciu [Github](https://github.com/p-urbanski), [R](https://www.r-project.org/) oraz [Quarto](https://quarto.org/)"
-        
+    
 format:
   html:
     respect-user-color-scheme: true

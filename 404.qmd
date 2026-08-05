@@ -1,0 +1,13 @@
+---
+title: "Ups! Wygląda na to, że ta strona się zgubiła 🧭"
+---
+
+Strona, której szukasz, nie istnieje – mogła zmienić adres albo zostać usunięta.
+
+::: callout-tip
+## Wskazówka
+
+Użyj ikony lupy 🔍 w prawym górnym rogu, aby łatwo odnaleźć interesujące Cię treści.
+:::
+
+![Źródło: freepik.com](images/404.webp){fig-alt="Ludzie niosący cyfry układające się w napis 404 (błąd 404: nie znaleziono strony)"}
