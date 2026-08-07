@@ -1,11 +1,13 @@
 /*-- scss:defaults --*/
 
+
+/* Czcionki */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 $font-family-sans-serif: 'Inter', system-ui, -apple-system, sans-serif !default;
 $headings-font-family: 'Lora', serif !default;
 
-// Colors
+/* Paleta kolorystyczna */
 $bezowy: #FEFDFB;
 $antracytowy: #2D2A26;
 $granatowy: #0B3D5C;
@@ -15,16 +17,21 @@ $mietowy: #CDE4DF;
 $pomaranczowy: #E8871E;
 $piaskowy: #FAE7D2;
 
-// Base documtn colors
+/* Podstawowe kolory na stronie */
 $navbar-bg: transparent;
 $navbar-fg: $antracytowy;
 $navbar-hl: $morski;
 $body-bg: $bezowy;
 $body-color: $antracytowy;
-$footer-bg: transparent;
 $link-color: $morski;
 
-// Navbar
+/* Kolor zaznaczenia tekstu */
+::selection {
+  background-color: $mietowy; /* Kolor tła zaznaczenia (np. żółty) */
+  color: $antracytowy;            /* Kolor tekstu po zaznaczeniu (np. czarny) */
+}
+
+/* Górna belka nawigacyjna */
 .navbar-brand img,
 .navbar-logo {
   margin-top: 5px;
@@ -35,3 +42,4 @@ $link-color: $morski;
 .navbar {
   border-bottom: 1px solid #e5e5e5 !important; /* Cienka, jasnoszara linia */
 }
+

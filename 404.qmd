@@ -1,8 +1,8 @@
 ---
-title: "Ups! Wygląda na to, że ta strona się zgubiła 🧭"
+title: "Houston, mamy problem!"
 ---
 
-Strona, której szukasz, nie istnieje – mogła zmienić adres albo zostać usunięta.
+Wygląda na to, że strona, której szukasz, nie istnieje – mogła zmienić adres albo zostać usunięta.
 
 ::: callout-tip
 ## Wskazówka

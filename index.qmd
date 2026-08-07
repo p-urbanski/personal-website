@@ -1,13 +1,23 @@
 ---
-title: "Wpisy"
+pagetitle: "Miarodajnie – Piotr Urbański"
+description-meta: "Przekładam język statystyki na proste wnioski o zjawiskach, które obserwujemy na co dzień."
 listing:
-  contents: posts
+  id: blog-posts
+  contents: content/posts
   feed: true
   sort: "date desc"
-  type: default
-  categories: true
+  type: grid
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: false
 ---
+  
+## Cześć, jestem Piotr 👋
+Krótki tekst o tym, kim jesteś i czym się zajmujesz w Miarodajnie.
+
+## Najnowsze wpisy
+
+:::{#blog-posts}
+:::

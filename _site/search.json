@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Wpisy",
+    "objectID": "posts/transformacja-energetyczna-lzw/index.html",
+    "href": "posts/transformacja-energetyczna-lzw/index.html",
+    "title": "Transformacja energetyczna Lubelskiego Zagłębia Węglowego",
     "section": "",
-    "text": "Transformacja energetyczna Lubelskiego Zagłębia Węglowego\n\n\n\ndashboard\n\n\n\n\n\n\n\n\n\nAug 1, 2026\n\n\nPiotr Urbański\n\n\n\n\n\n\n\n\n\n\n\n\nHello world\n\n\n\nnews\n\n\n\nPierwszy wpis na blogu\n\n\n\n\n\nJul 28, 2026\n\n\nPiotr Urbański\n\n\n\n\n\nNo matching items"
+    "text": "AdnotacjaOpracowanie oparte na pracy magisterskiej\n\n\n\nW 2023 r. napisałem pracę magisterską na temat społeczno-gospodarczych konsekwencji transformacji energetycznej w LZW. Możesz ją przeczytać na moim profilu Researchgate. Po wszystkie źródła informacji, których nie wymieniłem na blogu, odsyłam do pracy.\n\n\n\nNajwiększa kopalnia węgla kamiennego w Polsce\nKopalnia w Bogdance"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Miarodajnie - Piotr Urbański",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Krótki tekst o tym, kim jesteś i czym się zajmujesz w Miarodajnie."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Piotr Urbański",
     "section": "",
-    "text": "Cześć, nazywam się Piotrek 👋. Na co dzień zajmuję się analizą danych statystycznych.\nZałożyłem blog Miarodajnie, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chcę dzięki niemu pokazać, że statystyka nie musi być nudna, za to może być szalenie interesująca 😊!\nChciałbyś zadać mi jakieś pytanie? Pisz śmiało 📧!\n\n\n\n\n\n\nNoteOświadczenie\n\n\n\nPrezentowane treści wyrażają moją opinię i nie należy ich traktować jako stanowiska żadnej organizacji."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Cześć, nazywam się Piotrek 👋. Na co dzień zajmuję się analizą danych statystycznych.\nChciałbyś zadać mi jakieś pytanie? Pisz śmiało 📧!"
   },
   {
     "objectID": "posts/hello-world/index.html",
@@ -35,38 +28,59 @@
     "text": "Dzisiaj założyłem ten blog, a to mój pierwszy wpis."
   },
   {
-    "objectID": "posts/hello-world/index.html#wstęp",
-    "href": "posts/hello-world/index.html#wstęp",
-    "title": "Hello world",
+    "objectID": "index.html#cześć-jestem-piotr",
+    "href": "index.html#cześć-jestem-piotr",
+    "title": "Miarodajnie - Piotr Urbański",
     "section": "",
-    "text": "To jest treść mojego pierwszego wpisu na blogu.\nMogę tu pisać zwykły Markdown — pogrubienia, kursywa, listy:\n\npunkt pierwszy\npunkt drugi"
+    "text": "Krótki tekst o tym, kim jesteś i czym się zajmujesz w Miarodajnie."
   },
   {
-    "objectID": "posts/hello-world/index.html#kod-w-r-opcjonalnie",
-    "href": "posts/hello-world/index.html#kod-w-r-opcjonalnie",
-    "title": "Hello world",
-    "section": "Kod w R (opcjonalnie)",
-    "text": "Kod w R (opcjonalnie)\nJeśli chcesz osadzić kod i wyniki (Quarto to wykona przy renderowaniu):\n```{r} summary(cars) ```\n```{r} plot(cars) ```"
+    "objectID": "index.html#najnowsze-wpisy",
+    "href": "index.html#najnowsze-wpisy",
+    "title": "Miarodajnie - Piotr Urbański",
+    "section": "Najnowsze wpisy",
+    "text": "Najnowsze wpisy\n\n\n\n\n\n\n\n\n\n\nTransformacja energetyczna Lubelskiego Zagłębia Węglowego\n\n\n\n\n\n\nPiotr Urbański\n\n\n1 sie 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello world\n\n\nPierwszy wpis na blogu\n\n\n\nPiotr Urbański\n\n\n28 lip 2026\n\n\n\n\n\n\nBrak pasujących"
   },
   {
-    "objectID": "posts/transformacja-energetyczna_lom/index.html",
-    "href": "posts/transformacja-energetyczna_lom/index.html",
+    "objectID": "navbar-sites/blog-posts.html",
+    "href": "navbar-sites/blog-posts.html",
+    "title": "Wpisy na blogu",
+    "section": "",
+    "text": "Brak pasujących"
+  },
+  {
+    "objectID": "content/posts/hello-world/index.html",
+    "href": "content/posts/hello-world/index.html",
     "title": "Hello world",
     "section": "",
     "text": "Dzisiaj założyłem ten blog, a to mój pierwszy wpis."
   },
   {
-    "objectID": "posts/transformacja-energetyczna_lzw/index.html",
-    "href": "posts/transformacja-energetyczna_lzw/index.html",
+    "objectID": "content/posts/transformacja-energetyczna-lzw/index.html",
+    "href": "content/posts/transformacja-energetyczna-lzw/index.html",
     "title": "Transformacja energetyczna Lubelskiego Zagłębia Węglowego",
     "section": "",
-    "text": "NoteOpracowanie oparte na pracy magisterskiej\n\n\n\nW 2023 r. napisałem pracę magisterską na temat społeczno-gospodarczych konsekwencji transformacji energetycznej w LZW. Możesz ją przeczytać na moim profilu Researchgate. Po wszystkie źródła informacji, których nie wymieniłem na blogu, odsyłam do pracy.\n\n\n\nNajwiększa kopalnia węgla kamiennego w Polsce\nKopalnia w Bogdance"
+    "text": "AdnotacjaOpracowanie oparte na pracy magisterskiej\n\n\n\nW 2023 r. napisałem pracę magisterską na temat społeczno-gospodarczych konsekwencji transformacji energetycznej w LZW. Możesz ją przeczytać na moim profilu Researchgate. Po wszystkie źródła informacji, których nie wymieniłem na blogu, odsyłam do pracy.\n\n\n\nNajwiększa kopalnia węgla kamiennego w Polsce\nKopalnia w Bogdance"
   },
   {
-    "objectID": "posts/transformacja-energetyczna-lzw/index.html",
-    "href": "posts/transformacja-energetyczna-lzw/index.html",
-    "title": "Transformacja energetyczna Lubelskiego Zagłębia Węglowego",
+    "objectID": "content/blog-posts.html",
+    "href": "content/blog-posts.html",
+    "title": "Wpisy na blogu",
     "section": "",
-    "text": "NoteOpracowanie oparte na pracy magisterskiej\n\n\n\nW 2023 r. napisałem pracę magisterską na temat społeczno-gospodarczych konsekwencji transformacji energetycznej w LZW. Możesz ją przeczytać na moim profilu Researchgate. Po wszystkie źródła informacji, których nie wymieniłem na blogu, odsyłam do pracy.\n\n\n\nNajwiększa kopalnia węgla kamiennego w Polsce\nKopalnia w Bogdance"
+    "text": "Sortuj według\n      Domyślnie\n      \n        Tytuł\n      \n      \n        Data - Od najstarszych\n      \n      \n        Data - Od najnowszych\n      \n      \n        Autor\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTransformacja energetyczna Lubelskiego Zagłębia Węglowego\n\n\n\ndashboard\n\n\n\n\n\n\n\n\n\n1 sie 2026\n\n\nPiotr Urbański\n\n\n\n\n\n\n\n\n\n\n\n\nHello world\n\n\n\nnews\n\n\n\nPierwszy wpis na blogu\n\n\n\n\n\n28 lip 2026\n\n\nPiotr Urbański\n\n\n\n\n\nBrak pasujących"
+  },
+  {
+    "objectID": "about.html#dlaczego-miarodajnie",
+    "href": "about.html#dlaczego-miarodajnie",
+    "title": "Piotr Urbański",
+    "section": "Dlaczego Miarodajnie?",
+    "text": "Dlaczego Miarodajnie?\nZałożyłem ten blog, żeby przełożyć trudny język liczb 📊 na proste wnioski o zjawiskach, których doświadczamy na co dzień. Zarówno tych naturalnych 🍃🌍, jak i społecznych 👪.\nDzięki mojej pracy chcę pokazać, że statystyka wcale nie musi być nudna, za to może być szalenie interesująca 😊!"
+  },
+  {
+    "objectID": "content/projects.html",
+    "href": "content/projects.html",
+    "title": "Interaktywne dashboardy",
+    "section": "",
+    "text": "trasnformacja-energetyczna-lzw\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrak pasujących"
   }
 ]

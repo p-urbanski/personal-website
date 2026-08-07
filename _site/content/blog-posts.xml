@@ -6,8 +6,8 @@
       version="2.0">
 <channel>
 <title>Miarodajnie - Piotr Urbański</title>
-<link>https://piotr-urbanski.netlify.app/</link>
-<atom:link href="https://piotr-urbanski.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://piotr-urbanski.netlify.app/content/blog-posts.html</link>
+<atom:link href="https://piotr-urbanski.netlify.app/content/blog-posts.xml" rel="self" type="application/rss+xml"/>
 <description>Przekładam język statystyki na proste wnioski o zjawiskach, które obserwujemy na co dzień.</description>
 <generator>quarto-1.9.38</generator>
 <lastBuildDate>Fri, 31 Jul 2026 22:00:00 GMT</lastBuildDate>

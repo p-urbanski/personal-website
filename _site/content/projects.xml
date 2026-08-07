@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Miarodajnie - Piotr Urbański</title>
+<link>https://piotr-urbanski.netlify.app/content/projects.html</link>
+<atom:link href="https://piotr-urbanski.netlify.app/content/projects.xml" rel="self" type="application/rss+xml"/>
+<description>Przekładam język statystyki na proste wnioski o zjawiskach, które obserwujemy na co dzień.</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Fri, 07 Aug 2026 18:45:03 GMT</lastBuildDate>
+<item>
+  <title>trasnformacja-energetyczna-lzw</title>
+  <link>https://piotr-urbanski.netlify.app/content/projects/transformacja-energetyczna-lzw.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://piotr-urbanski.netlify.app/content/projects/transformacja-energetyczna-lzw.html</guid>
+  <pubDate>Fri, 07 Aug 2026 18:45:03 GMT</pubDate>
+</item>
+</channel>
+</rss>

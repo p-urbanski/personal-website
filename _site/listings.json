@@ -2,8 +2,25 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/transformacja-energetyczna-lzw/index.html",
-      "/posts/hello-world/index.html"
+      "/content/posts/transformacja-energetyczna-lzw/index.html",
+      "/content/posts/hello-world/index.html"
+    ]
+  },
+  {
+    "listing": "/navbar-sites/blog-posts.html",
+    "items": []
+  },
+  {
+    "listing": "/content/blog-posts.html",
+    "items": [
+      "/content/posts/transformacja-energetyczna-lzw/index.html",
+      "/content/posts/hello-world/index.html"
+    ]
+  },
+  {
+    "listing": "/content/projects.html",
+    "items": [
+      "/content/projects/transformacja-energetyczna-lzw.html"
     ]
   }
 ]

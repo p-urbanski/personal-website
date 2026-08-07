@@ -11,14 +11,14 @@ about:
     - icon: github
       text: Github
       href: https://github.com/p-urbanski
+    - icon: file-earmark-person-fill
+      text: CV
     - icon: envelope-fill
       text: E-mail
       href: mailto:piotr_urbanski@o2.pl
 ---
 
 Cześć, nazywam się Piotrek 👋. Na co dzień zajmuję się analizą danych statystycznych.
-
-Założyłem blog *Miarodajnie*, żeby tłumaczyć zjawiska społeczne przy pomocy danych. Chcę dzięki niemu pokazać, że statystyka nie musi być nudna, za to może być szalenie interesująca 😊!
 
 Chciałbyś zadać mi jakieś pytanie? [Pisz śmiało](mailto:piotr_urbanski@o2.pl) 📧!
 
@@ -27,3 +27,9 @@ Chciałbyś zadać mi jakieś pytanie? [Pisz śmiało](mailto:piotr_urbanski@o2.
 
 Prezentowane treści wyrażają moją opinię i nie należy ich traktować jako stanowiska żadnej organizacji.
 :::
+
+## Dlaczego *Miarodajnie*?
+
+Założyłem ten blog, żeby przełożyć trudny język liczb 📊 na proste wnioski o zjawiskach, których doświadczamy na co dzień. Zarówno tych naturalnych 🍃🌍, jak i społecznych 👪. 
+
+Dzięki mojej pracy chcę pokazać, że statystyka wcale nie musi być nudna, za to może być szalenie interesująca 😊!

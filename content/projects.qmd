@@ -1,0 +1,14 @@
+---
+title: "Interaktywne dashboardy"
+listing:
+  contents: projects
+  feed: true
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  image-placeholder: "../images/logo_vertical.webp"
+page-layout: full
+title-block-banner: false
+---
